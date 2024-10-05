@@ -1,0 +1,16 @@
+.purchase {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.pix-info {
+    margin: 20px 0;
+}
+
+.qr-code {
+    width: 200px; /* Ajuste o tamanho do QR code conforme necessário */
+    margin: 20px 0;
+}
